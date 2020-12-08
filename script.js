@@ -1,1 +1,1 @@
-const myToken = "dp.pt.g801d65o84zbO0uLSGX0pIEFByJeRauuvhWXGZK3"
+const myToken = "dp.pt.FwySdoSbHMPtyxZWa7Hz42GliK6bgV4gJDwNOYS1"
